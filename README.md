@@ -1,4 +1,4 @@
-# CyberDude-Training-Landing-Page-Web-design
+# Fraction Analytics -Landing-Page-Web-design
 
 ## Screenshots
 ![Fraction Analytics](./screenshots/ss.png)
